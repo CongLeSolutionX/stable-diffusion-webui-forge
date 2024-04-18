@@ -1,0 +1,3 @@
+[submodule "extensions/sd-forge-animatediff"]
+	path = extensions/sd-forge-animatediff
+	url = https://github.com/CongLeSolutionX/sd-forge-animatediff
