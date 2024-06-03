@@ -1,9 +1,0 @@
-[submodule "extensions/sd-forge-animatediff"]
-	path = extensions/sd-forge-animatediff
-	url = https://github.com/CongLeSolutionX/sd-forge-animatediff
-[submodule "extensions/sd-webui-lobe-theme"]
-	path = extensions/sd-webui-lobe-theme
-	url = https://github.com/CongLeSolutionX/sd-webui-lobe-theme.git
-[submodule "extensions/sd-civitai-browser-plus"]
-	path = extensions/sd-civitai-browser-plus
-	url = https://github.com/CongLeSolutionX/sd-civitai-browser-plus
