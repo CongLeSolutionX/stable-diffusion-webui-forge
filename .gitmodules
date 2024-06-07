@@ -1,0 +1,3 @@
+[submodule "extensions/sd-webui-lobe-theme"]
+	path = extensions/sd-webui-lobe-theme
+	url = https://github.com/lobehub/sd-webui-lobe-theme.git
