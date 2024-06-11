@@ -22,3 +22,6 @@
 [submodule "extensions/Stylez"]
 	path = extensions/Stylez
 	url = https://github.com/javsezlol1/Stylez.git
+[submodule "extensions/uddetailer"]
+	path = extensions/uddetailer
+	url = https://github.com/wkpark/uddetailer.git
