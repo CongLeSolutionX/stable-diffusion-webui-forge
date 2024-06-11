@@ -7,3 +7,6 @@
 [submodule "extensions/sd-civitai-browser-plus"]
 	path = extensions/sd-civitai-browser-plus
 	url = https://github.com/BlafKing/sd-civitai-browser-plus.git
+[submodule "extensions/sd-extension-system-info"]
+	path = extensions/sd-extension-system-info
+	url = https://github.com/vladmandic/sd-extension-system-info.git
