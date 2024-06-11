@@ -16,3 +16,6 @@
 [submodule "extensions/sd-webui-infinite-image-browsing"]
 	path = extensions/sd-webui-infinite-image-browsing
 	url = https://github.com/zanllp/sd-webui-infinite-image-browsing.git
+[submodule "extensions/stable-diffusion-webui-images-browser"]
+	path = extensions/stable-diffusion-webui-images-browser
+	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
