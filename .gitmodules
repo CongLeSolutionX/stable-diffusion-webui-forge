@@ -19,3 +19,6 @@
 [submodule "extensions/stable-diffusion-webui-images-browser"]
 	path = extensions/stable-diffusion-webui-images-browser
 	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
+[submodule "extensions/Stylez"]
+	path = extensions/Stylez
+	url = https://github.com/javsezlol1/Stylez.git
