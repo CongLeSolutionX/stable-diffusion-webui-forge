@@ -10,3 +10,6 @@
 [submodule "extensions/sd-extension-system-info"]
 	path = extensions/sd-extension-system-info
 	url = https://github.com/vladmandic/sd-extension-system-info.git
+[submodule "extensions/sd-webui-bmab"]
+	path = extensions/sd-webui-bmab
+	url = https://github.com/portu-sim/sd-webui-bmab.git
