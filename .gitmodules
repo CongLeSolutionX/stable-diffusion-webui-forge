@@ -13,3 +13,6 @@
 [submodule "extensions/sd-webui-bmab"]
 	path = extensions/sd-webui-bmab
 	url = https://github.com/portu-sim/sd-webui-bmab.git
+[submodule "extensions/sd-webui-infinite-image-browsing"]
+	path = extensions/sd-webui-infinite-image-browsing
+	url = https://github.com/zanllp/sd-webui-infinite-image-browsing.git
