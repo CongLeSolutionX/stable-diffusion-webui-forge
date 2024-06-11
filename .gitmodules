@@ -4,3 +4,6 @@
 [submodule "extensions/adetailer"]
 	path = extensions/adetailer
 	url = https://github.com/Bing-su/adetailer.git
+[submodule "extensions/sd-civitai-browser-plus"]
+	path = extensions/sd-civitai-browser-plus
+	url = https://github.com/BlafKing/sd-civitai-browser-plus.git
